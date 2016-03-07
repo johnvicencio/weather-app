@@ -18,11 +18,11 @@ gem install weather-api
 gem install nokogiri
 
 # Set-Up
-require 'rubygems'
-require 'weather-api'
-require 'nokogiri'
-require 'open-uri'
-require 'date'
+require 'rubygems'<br>
+require 'weather-api'<br>
+require 'nokogiri'<br>
+require 'open-uri'<br>
+require 'date'<br>
 
 
 
