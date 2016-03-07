@@ -13,7 +13,7 @@ API will display perminent weather details like temperature, city based on your 
 
 gem install weather-api
 
-**nokogiri**
+**On nokogiri**
 
 gem install nokogiri
 
