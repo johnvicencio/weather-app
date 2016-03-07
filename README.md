@@ -9,10 +9,12 @@ API will display perminent weather details like temperature, city based on your 
 
 # Installation
 
-*On Weather-api*
+**On Weather-api**
+
 gem install weather-api
 
-*nokogiri*
+**nokogiri**
+
 gem install nokogiri
 
 # Set-Up
