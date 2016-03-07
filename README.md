@@ -1,6 +1,6 @@
 # Weather App 
 Weather App is based on Yahoo Weather by simply entering the zip code. The web app determines your location and the 
-API will display perminent weather details like temperature, city based on your zip code, and forecasts.
+API will display weather details like temperature, city based on your zip code, and forecasts.
 
 # Required components
 
